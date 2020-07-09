@@ -21,16 +21,17 @@ These instructions will get a copy of the project up and running on your local m
 Prerequisites and Installation
 --------
 
-It is recommended to run this strategy in a virtual environment. Once an environment is setup, install TA-LIB.
+It is recommended to run this strategy in a virtual environment.
+
+Install TA-LIB dependencies - https://github.com/mrjbq7/ta-lib#dependencies.
 
 ```bash
 python3 -m venv tutorial-env
 source ~/tutorial-env/bin/activate
-install TA-lib prerequisites - https://github.com/mrjbq7/ta-lib
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
-Once all the dependencies for TA-lib are installed, get the code files with git.
+Get the code files with git.
 
 Clone the repo into the path you will be using
 ```bash
