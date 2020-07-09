@@ -34,7 +34,7 @@ Once all the dependencies for TA-lib are installed, get the code files with git.
 
 Clone the repo into the path you will be using
 ```bash
-git clone <REPO LOCATION>
+git clone https://github.com/poloniex/polo-futures-sample-strategies.git
 ```
 
 Configuration
