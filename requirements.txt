@@ -1,5 +1,5 @@
 pandas==1.0.4
 requests==2.23.0
 TA-Lib==0.4.18
-websockets==8.1
+websockets==9.1
 polo-futures-sdk==0.1
